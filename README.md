@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @luuhop
 - 👀 I’m interested in code
-- 🌱 I’m currently learning dev c++
+- 🌱 I’m currently learning c++, c, r, py,java
 - 💞️ I’m looking to collaborate on all
 - 📫 How to reach me ...
 
